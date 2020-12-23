@@ -1,0 +1,5 @@
+
+RUN THE createDB.py first, to create a database and insert dummy data to begin
+
+libraries used are:
+tkinter, sqlite3, random
